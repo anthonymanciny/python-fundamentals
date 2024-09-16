@@ -42,7 +42,7 @@ def main():
     # Exibindo a quantidade de elementos na pilha
     print("1)")
     exibir_quantidade(pilha)
-        
+         
     # Exibindo o elemento e seu "endereço de memória"
     print("2)")
     print("Elemento no topo da pilha:", elemento_topo)
